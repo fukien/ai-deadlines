@@ -202,35 +202,35 @@
             $('#' + subs[i] + '-checkbox').prop('checked', true);
           }
         }
-        // Hide unchecked subs
-        // for (var i = 0; i < all_subs.length; i++) {
-        //   if (subs.indexOf(all_subs[i]) < 0) {
-        //     $('.' + all_subs[i] + '-conf').hide();
-        //   }
-        // }
-        // store.set('{{ site.domain }}', subs);
-        // window.history.pushState('', '', '/?sub=' + subs.join());
+        Hide unchecked subs
+        for (var i = 0; i < all_subs.length; i++) {
+          if (subs.indexOf(all_subs[i]) < 0) {
+            $('.' + all_subs[i] + '-conf').hide();
+          }
+        }
+        store.set('{{ site.domain }}', subs);
+        window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
-        $('form :checkbox').change(function(e) {
-          var checked = $(this).is(':checked');
-          var cid = $(this).prop('id');
-          var csub = cid.substring(0, cid.length - 9);
-          if (checked == true) {
-            $('.' + csub + '-conf').show();
-            if (subs.indexOf(csub) < 0)
-              subs.push(csub);
-          }
-          else {
-            $('.' + csub + '-conf').hide();
-            var idx = subs.indexOf(csub);
-            if (idx >= 0)
-              subs.splice(idx, 1);
-          }
-          console.log(subs);
-          store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', '/?sub=' + subs.join());
-        });
+        // $('form :checkbox').change(function(e) {
+        //   var checked = $(this).is(':checked');
+        //   var cid = $(this).prop('id');
+        //   var csub = cid.substring(0, cid.length - 9);
+        //   if (checked == true) {
+        //     $('.' + csub + '-conf').show();
+        //     if (subs.indexOf(csub) < 0)
+        //       subs.push(csub);
+        //   }
+        //   else {
+        //     $('.' + csub + '-conf').hide();
+        //     var idx = subs.indexOf(csub);
+        //     if (idx >= 0)
+        //       subs.splice(idx, 1);
+        //   }
+        //   console.log(subs);
+        //   store.set('{{ site.domain }}', subs);
+        //   window.history.pushState('', '', '/?sub=' + subs.join());
+        // });
 
         // Event handler on sub click
         $('.conf-sub').click(function(e) {
