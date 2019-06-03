@@ -203,13 +203,13 @@
           }
         }
         // Hide unchecked subs
-        for (var i = 0; i < all_subs.length; i++) {
-          if (subs.indexOf(all_subs[i]) < 0) {
-            $('.' + all_subs[i] + '-conf').hide();
-          }
-        }
-        store.set('{{ site.domain }}', subs);
-        window.history.pushState('', '', '/?sub=' + subs.join());
+        // for (var i = 0; i < all_subs.length; i++) {
+        //   if (subs.indexOf(all_subs[i]) < 0) {
+        //     $('.' + all_subs[i] + '-conf').hide();
+        //   }
+        // }
+        // store.set('{{ site.domain }}', subs);
+        // window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
