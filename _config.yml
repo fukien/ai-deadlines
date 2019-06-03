@@ -1,17 +1,15 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: AI-DB Conference Deadlines # (Maintained by @fukien)
+# email: wentaohuang@ruc.edu.cn
+description: Countdowns to top AI/DB/DM/IR/ML/NLP conference deadlines
+author: Wentao Huang
 
-domain: "aideadlin.es"
-baseurl: ""
+domain: "fukien.github.io"
+baseurl: "/ai-db-deadlines"
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+github_username: fukien
+github_repo: ai-db-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
+ga_id:
 
 include: ['_pages']
