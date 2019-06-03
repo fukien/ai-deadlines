@@ -7,5 +7,5 @@
   sub: IR
 - name: Machine Learning
   sub: ML
-- name: Natural Language Proc
-  sub: NLP
+# - name: Natural Language Proc
+#   sub: NLP
