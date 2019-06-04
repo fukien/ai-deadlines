@@ -1,6 +1,6 @@
-## AI&DB Deadlines [![Build Status]]
+## AI&DB Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Countdown timers to keep track of a bunch of AI/DB conference deadlines.
 
 ## Adding/updating a conference
 
