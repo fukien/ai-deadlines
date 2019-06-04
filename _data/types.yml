@@ -3,10 +3,10 @@
   sub: DB
 - name: Data Mining
   sub: DM
-- name: Information Retrieval
-  sub: IR
 - name: Interdisciplinary Areas
   sub: IA
+- name: Information Retrieval
+  sub: IR
 - name: Machine Learning
   sub: ML
 - name: Natural Language Proc
