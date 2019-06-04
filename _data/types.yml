@@ -5,6 +5,8 @@
   sub: DM
 - name: Information Retrieval
   sub: IR
+- name: Interdisciplinary Areas
+  sub: IA
 - name: Machine Learning
   sub: ML
 - name: Natural Language Proc
