@@ -1,16 +1,5 @@
 
 ---
-
-- title: ICDM
-  year: 2019
-  id: icdm19
-  link: http://icdm2019.bigke.org/
-  deadline: '2019-06-05 23:59:59'
-  timezone: UTC-7
-  date: November 8-11, 2019
-  place: Beijing, China
-  sub: DM
-
 - title: WSDM
   year: 2020
   id: wsdm2020
@@ -232,3 +221,13 @@
 #   place: Beijing, China
 #   sub: DM
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on May 15, 2019. More info <a href=''http://www.cikm2019.net/callforpapers.html''>here</a>.'
+
+# - title: ICDM
+#   year: 2019
+#   id: icdm19
+#   link: http://icdm2019.bigke.org/
+#   deadline: '2019-06-05 23:59:59'
+#   timezone: UTC-7
+#   date: November 8-11, 2019
+#   place: Beijing, China
+#   sub: DM
