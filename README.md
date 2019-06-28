@@ -13,6 +13,7 @@ To add or update information:
 
 ## Fork & some useful links:
 - [ai-deadlines.es](https://aideadlin.es/?sub=DM,ML,NLP,SP,CV,RO)
+- [data-mining-conferences](https://github.com/yzhao062/data-mining-conferences)
 - [conferenceranks.com](http://www.conferenceranks.com/)
 - [conferencelist.info](http://www.conferencelist.info/)
 - [CCF conference ranking](https://www.ccf.org.cn/xspj/gyml/)
