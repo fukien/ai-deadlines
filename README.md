@@ -17,3 +17,4 @@ To add or update information:
 - [conferenceranks.com](http://www.conferenceranks.com/)
 - [conferencelist.info](http://www.conferencelist.info/)
 - [CCF conference ranking](https://www.ccf.org.cn/xspj/gyml/)
+- [Best Paper Awards](https://jeffhuang.com/best_paper_awards.html#)
