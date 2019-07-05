@@ -59,6 +59,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 8, 2019. More info <a href=''https://www.utdallas.edu/icde/call.html/''>here</a>.'
 
 
+- title: PODS SECOND ROUND
+  year: 2020
+  id: pods2020
+  link: https://sigmod2020.org/
+  deadline: '2019-12-22 23:59:59'
+  timezone: UTC-12
+  date: June 14-19
+  place: Portland, Oregon, USA
+  sub: DB
+  note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
+
+
 # - title: PAKDD
 #   year: 2020
 #   id: pakdd2020
