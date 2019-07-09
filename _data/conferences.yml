@@ -71,6 +71,17 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
 
 
+# - title: AISTATS
+#   year: 2020
+#   id: aistats20
+#   link: https://www.aistats.org/
+#   deadline: '2018-10-04 23:59:59'
+#   timezone: America/Los_Angeles
+#   date: April 16-18, 2019
+#   place: Naha, Okinawa, Japan
+#   sub: ML
+
+
 # - title: PAKDD
 #   year: 2020
 #   id: pakdd2020
@@ -104,15 +115,6 @@
 #   place: New Orleans, Louisiana, US
 #   sub: ML
 
-# - title: AISTATS
-#   year: 2019
-#   id: aistats19
-#   link: https://www.aistats.org/
-#   deadline: '2018-10-04 23:59:59'
-#   timezone: America/Los_Angeles
-#   date: April 16-18, 2019
-#   place: Naha, Okinawa, Japan
-#   sub: ML
 
 # - title: AAMAS
 #   year: 2019
@@ -124,6 +126,7 @@
 #   place: Montreal, Canada
 #   sub: ML
 
+
 # - title: NAACL
 #   year: 2019
 #   id: naacl19
@@ -133,6 +136,7 @@
 #   date: June 2-7, 2019
 #   place: Minneapolis, USA
 #   sub: NLP
+
 
 # - title: ICML
 #   year: 2019
@@ -144,6 +148,7 @@
 #   place: Long Beach, USA
 #   sub: ML
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
+
 
 # - title: GECCO
 #   year: 2019
@@ -165,6 +170,7 @@
 #   place: Phoenix, AZ
 #   sub: ML
 
+
 # - title: KDD
 #   year: 2019
 #   id: kdd19
@@ -174,6 +180,7 @@
 #   date: August 3-7, 2019
 #   place: Anchorage, Alaska, USA
 #   sub: DM
+
 
 # - title: IJCAI
 #   year: 2019
@@ -186,6 +193,7 @@
 #   sub: ML
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href=''https://www.ijcai19.org/call-for-papers.html''>here</a>.'
 
+
 # - title: ACL
 #   year: 2019
 #   id: acl19
@@ -195,6 +203,7 @@
 #   date: July 28-August 2, 2019
 #   place: Florence, Italy
 #   sub: NLP
+
 
 # - title: UAI
 #   year: 2019
@@ -208,6 +217,7 @@
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on March 04, 2019. More info <a
 #     href=''http://auai.org/uai2019/cfp.php''>here</a>.'
 
+
 # - title: ECML/PKDD
 #   year: 2019
 #   id: ecmlpkdd19
@@ -219,6 +229,7 @@
 #   sub: ML
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on March 29, 2019. More info <a
 #     href="https://ecmlpkdd2019.org/submissions/deadlines/">here</a>.'
+
 
 # - title: EMNLP-IJCNLP
 #   year: 2019
@@ -232,6 +243,7 @@
 #   note: '<b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
 #     <a href="https://www.emnlp-ijcnlp2019.org/calls/papers">here</a>.'
 
+
 # - title: NeurIPS
 #   year: 2019
 #   id: neurips19
@@ -243,6 +255,7 @@
 #   sub: ML
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
 
+
 # - title: CoNLL
 #   year: 2019
 #   id: conll2019
@@ -252,6 +265,7 @@
 #   date: November 3-4, 2019
 #   place: Hong Kong
 #   sub: NLP
+
 
 # - title: CIKM
 #   year: 2019
@@ -263,6 +277,7 @@
 #   place: Beijing, China
 #   sub: DM
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on May 15, 2019. More info <a href=''http://www.cikm2019.net/callforpapers.html''>here</a>.'
+
 
 # - title: ICDM
 #   year: 2019
