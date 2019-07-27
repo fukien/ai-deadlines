@@ -47,6 +47,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://www2020.thewebconf.org/''>here</a>.'
 
 
+- title: SIGMOD SECOND ROUND
+  year: 2020
+  id: sigmod2020
+  link: https://sigmod2020.org/
+  deadline: '2019-10-22 16:59:59'
+  timezone: UTC-7
+  date: June 14-19
+  place: Portland, Oregon, USA
+  sub: DB
+  note: '<b>NOTE</b>: Mandatory abstract deadline on October 22, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
+
+
 - title: ICDE SECOND ROUND
   year: 2020
   id: icde2020
@@ -102,18 +114,6 @@
 #   date: May 11-14
 #   place:  Singapore
 #   sub: DM
-
-
-# - title: SIGMOD SECOND ROUND
-#   year: 2020
-#   id: sigmod2020
-#   link: https://sigmod2020.org/
-#   deadline: ''
-#   timezone: UTC-7
-#   date: June 14-19
-#   place: Portland, Oregon, USA
-#   sub: DB
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on , 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
 
 
 # - title: ICLR
