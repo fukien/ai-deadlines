@@ -47,6 +47,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://www2020.thewebconf.org/''>here</a>.'
 
 
+- title: ICDE SECOND ROUND
+  year: 2020
+  id: icde2020
+  link: https://www.utdallas.edu/icde/
+  deadline: '2019-10-15 23:59:59'
+  timezone: UTC-7
+  date: April 20-24
+  place: Dallas, Texas, USA
+  sub: DB
+  note: '<b>NOTE</b>: Mandatory abstract deadline on October 8, 2019. More info <a href=''https://www.utdallas.edu/icde/call.html/''>here</a>.'
+
+
 - title: SIGMOD SECOND ROUND
   year: 2020
   id: sigmod2020
@@ -69,18 +81,6 @@
   place: Portland, Oregon, USA
   sub: DB
   note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
-
-
-- title: ICDE SECOND ROUND
-  year: 2020
-  id: icde2020
-  link: https://www.utdallas.edu/icde/
-  deadline: '2019-10-15 23:59:59'
-  timezone: UTC-7
-  date: April 20-24
-  place: Dallas, Texas, USA
-  sub: DB
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 8, 2019. More info <a href=''https://www.utdallas.edu/icde/call.html/''>here</a>.'
 
 
 # - title: ECAI
