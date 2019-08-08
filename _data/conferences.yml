@@ -24,6 +24,27 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2019. More info <a href=''https://aaai.org/Conferences/AAAI-20/aaai20call/''>here</a>.'
 
 
+- title: ALT
+  year: 2020
+  id: alt2020
+  link: http://alt2020.algorithmiclearningtheory.org/
+  deadline: '2019-09-20 16:59:59'
+  timezone: America/New_York
+  date: February 08-10, 2020
+  place: San Diego, CA, United States
+  sub: ML
+
+- title: ICLR
+  year: 2020
+  id: iclr20
+  link: http://iclr.cc/
+  deadline: '2019-09-25 17:59:59'
+  timezone: Africa/Nairobi
+  date: April 30, 2020
+  place: Addis Ababa, Ethiopia
+  sub: ML
+
+
 - title: ECIR
   year: 2020
   id: ecir2020
@@ -32,6 +53,17 @@
   timezone: UTC-12
   date: April 15-17, 2020
   place: Lisbon, Portugal
+  sub: ML
+
+
+- title: AISTATS
+  year: 2020
+  id: aistats20
+  link: https://www.aistats.org/
+  deadline: '2019-10-08 23:59:59'
+  timezone: America/Los_Angeles
+  date: June 3-5, 2020
+  place: Palermo, Sicily, Italy
   sub: ML
 
 
@@ -71,6 +103,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 22, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
 
 
+- title: ECAI
+  year: 2020
+  id: ecai2020
+  link: http://ecai2020.eu/
+  deadline: '2019-11-15 23:59:59'
+  timezone: UTC-12
+  date: June 8-12
+  place: Santiago de Compostela, Spain
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on November 15, 2019. More info <a href=''http://ecai2020.eu/important-dates/''>here</a>.'
+
+
 - title: PODS SECOND ROUND
   year: 2020
   id: pods2020
@@ -83,28 +127,6 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
 
 
-# - title: ECAI
-#   year: 2020
-#   id: ecai2020
-#   link: http://ecai2020.eu/
-#   deadline: '2019-11-15'
-#   timezone: 
-#   date: June 8-12
-#   place: Santiago de Compostela, Spain
-#   sub: ML
-
-
-# - title: AISTATS
-#   year: 2020
-#   id: aistats20
-#   link: https://www.aistats.org/
-#   deadline: '2018-10-04 23:59:59'
-#   timezone: America/Los_Angeles
-#   date: April 16-18, 2019
-#   place: Naha, Okinawa, Japan
-#   sub: ML
-
-
 # - title: PAKDD
 #   year: 2020
 #   id: pakdd2020
@@ -114,17 +136,6 @@
 #   date: May 11-14
 #   place:  Singapore
 #   sub: DM
-
-
-# - title: ICLR
-#   year: 2019
-#   id: iclr19
-#   link: http://iclr.cc/
-#   deadline: '2018-09-27 17:59:59'
-#   timezone: America/New_York
-#   date: May 6-9, 2019
-#   place: New Orleans, Louisiana, US
-#   sub: ML
 
 
 # - title: AAMAS
@@ -170,6 +181,7 @@
 #   date: July 13 - 17, 2019
 #   place: Prague, Czech Republic
 #   sub: ML
+
 
 # - title: COLT
 #   year: 2019
