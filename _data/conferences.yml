@@ -14,11 +14,11 @@
 
 - title: AAAI
   year: 2020
-  id: aaai2020
+  id: aaai20
   link: https://aaai.org/Conferences/AAAI-20/
-  deadline: '2019-9-5 23:59:59'
+  deadline: '2019-09-05 23:59:59'
   timezone: UTC-10
-  date: April 20-24
+  date: February 7-12, 2020
   place: New York, New York, USA
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2019. More info <a href=''https://aaai.org/Conferences/AAAI-20/aaai20call/''>here</a>.'
