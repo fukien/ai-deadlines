@@ -9,7 +9,7 @@
   date: February 5-9, 2020
   place: Houston, Texas, USA
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on August 12, 2019. More info <a href=''http://www.wsdm-conference.org/2020/''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on August 12, 2019. More info <a href=''http://www.wsdm-conference.org/2020/call-for-papers.php#/''>here</a>.'
 
 
 - title: AAAI
@@ -73,10 +73,10 @@
   link: https://www2020.thewebconf.org/
   deadline: '2019-10-14 23:59:59'
   timezone: UTC-12
-  date: April 20-24
+  date: April 20-24, 2020
   place: Taipei, Taiwan, China
   sub: IA
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://www2020.thewebconf.org/''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://www2020.thewebconf.org/authors-important-dates''>here</a>.'
 
 
 - title: ICDE SECOND ROUND
@@ -85,7 +85,7 @@
   link: https://www.utdallas.edu/icde/
   deadline: '2019-10-15 23:59:59'
   timezone: UTC-7
-  date: April 20-24
+  date: April 20-24, 2020
   place: Dallas, Texas, USA
   sub: DB
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 8, 2019. More info <a href=''https://www.utdallas.edu/icde/call.html/''>here</a>.'
@@ -97,7 +97,7 @@
   link: https://sigmod2020.org/
   deadline: '2019-10-22 16:59:59'
   timezone: UTC-7
-  date: June 14-19
+  date: June 14-19, 2020
   place: Portland, Oregon, USA
   sub: DB
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
@@ -109,10 +109,22 @@
   link: http://ecai2020.eu/
   deadline: '2019-11-19 23:59:59'
   timezone: UTC-12
-  date: June 8-12
+  date: June 8-12, 2020
   place: Santiago de Compostela, Spain
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on November 15, 2019. More info <a href=''http://ecai2020.eu/important-dates/''>here</a>.'
+
+
+- title: DASFAA
+  year: 2020
+  id: dasfaa_2020
+  link: http://db.pknu.ac.kr/dasfaa2020/
+  deadline: '2019-12-20 23:59:59'
+  timezone: UTC-12
+  date: May 21-24, 2020
+  place: Jeju, South Korea
+  sub: DB
+  note: '<b>NOTE</b>: Mandatory abstract deadline on December 13, 2019. More info <a href=''http://db.pknu.ac.kr/dasfaa2020/?call_for_papers/''>here</a>.'
 
 
 - title: PODS SECOND ROUND
@@ -121,7 +133,7 @@
   link: https://sigmod2020.org/
   deadline: '2019-12-22 23:59:59'
   timezone: UTC-12
-  date: June 14-19
+  date: June 14-19, 2020
   place: Portland, Oregon, USA
   sub: DB
   note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
