@@ -18,4 +18,6 @@ To add or update information:
 - [conferenceranks.com](http://www.conferenceranks.com/)
 - [conferencelist.info](http://www.conferencelist.info/)
 - [CCF conference ranking](https://www.ccf.org.cn/xspj/gyml/)
+- [JHU SoC Conference ranking](http://www.cs.jhu.edu/~taochen/SoC_Conference_Ranking.html)
+- [JHU SoC Journal Ranking](http://www.cs.jhu.edu/~taochen/SoC_Journal_Ranking.html)
 - [Best Paper Awards](https://jeffhuang.com/best_paper_awards.html#)
