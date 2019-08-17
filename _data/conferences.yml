@@ -1,17 +1,5 @@
 
 ---
-- title: WSDM
-  year: 2020
-  id: wsdm2020
-  link: http://www.wsdm-conference.org/2020/
-  deadline: '2019-08-16 23:59:59'
-  timezone: UTC-11
-  date: February 3-7, 2020
-  place: Houston, Texas, USA
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on August 12, 2019. More info <a href=''http://www.wsdm-conference.org/2020/call-for-papers.php#/''>here</a>.'
-
-
 - title: CIDR
   year: 2020
   id: cidr2020
@@ -359,3 +347,15 @@
 #   date: November 8-11, 2019
 #   place: Beijing, China
 #   sub: DM
+
+
+# - title: WSDM
+#   year: 2020
+#   id: wsdm2020
+#   link: http://www.wsdm-conference.org/2020/
+#   deadline: '2019-08-16 23:59:59'
+#   timezone: UTC-11
+#   date: February 3-7, 2020
+#   place: Houston, Texas, USA
+#   sub: DM
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on August 12, 2019. More info <a href=''http://www.wsdm-conference.org/2020/call-for-papers.php#/''>here</a>.'
