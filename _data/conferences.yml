@@ -1,16 +1,5 @@
 
 ---
-- title: CIDR
-  year: 2020
-  id: cidr2020
-  link: http://cidrdb.org/cidr2020/
-  deadline: '2019-08-25 11:59:59'
-  timezone: America/Pacific
-  date: January 12-15, 2020
-  place: Amsterdam, Netherlands
-  sub: DB
-
-
 - title: AAAI
   year: 2020
   id: aaai20
@@ -359,3 +348,14 @@
 #   place: Houston, Texas, USA
 #   sub: DM
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on August 12, 2019. More info <a href=''http://www.wsdm-conference.org/2020/call-for-papers.php#/''>here</a>.'
+
+
+# - title: CIDR
+#   year: 2020
+#   id: cidr2020
+#   link: http://cidrdb.org/cidr2020/
+#   deadline: '2019-08-25 11:59:59'
+#   timezone: America/Pacific
+#   date: January 12-15, 2020
+#   place: Amsterdam, Netherlands
+#   sub: DB
