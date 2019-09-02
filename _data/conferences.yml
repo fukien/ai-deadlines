@@ -68,6 +68,18 @@
   sub: ML
 
 
+- title: SDM
+  year: 2020
+  id: sdm2020
+  link: https://www.siam.org/Conferences/CM/Conference/sdm20
+  deadline: '2019-10-11 23:59:59'
+  timezone: America/Pacific
+  date: May 7-9, 2020
+  place: Cincinnatti, Ohio, United States
+  sub: DM
+  note: '<b>NOTE</b>: Mandatory abstract deadline on October 4, 2019. More info <a href=''https://www.siam.org/Conferences/CM/Submissions-and-Deadlines/sdm20-submissions-deadlines''>here</a>.'
+
+
 - title: EDBT
   year: 2020
   id: edbt2020
