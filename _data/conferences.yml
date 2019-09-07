@@ -1,17 +1,5 @@
 
 ---
-- title: AAAI
-  year: 2020
-  id: aaai20
-  link: https://aaai.org/Conferences/AAAI-20/
-  deadline: '2019-09-05 23:59:59'
-  timezone: UTC-10
-  date: February 7-12, 2020
-  place: New York, New York, USA
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2019. More info <a href=''https://aaai.org/Conferences/AAAI-20/aaai20call/''>here</a>.'
-
-
 - title: ALT
   year: 2020
   id: alt2020
@@ -371,3 +359,15 @@
 #   date: January 12-15, 2020
 #   place: Amsterdam, Netherlands
 #   sub: DB
+
+
+# - title: AAAI
+#   year: 2020
+#   id: aaai20
+#   link: https://aaai.org/Conferences/AAAI-20/
+#   deadline: '2019-09-05 23:59:59'
+#   timezone: UTC-10
+#   date: February 7-12, 2020
+#   place: New York, New York, USA
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2019. More info <a href=''https://aaai.org/Conferences/AAAI-20/aaai20call/''>here</a>.'
