@@ -123,9 +123,9 @@
   deadline: '2019-11-25，23：59：59'
   timezone: UTC-7
   date: May 11-14
-  place:  Singapore
+  place: Singapore
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on November 18, 2019. More info <a href=''https://www.pakdd2020.org/callforpapers.html''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on November 18, 2019. More info <a href=''https://www.pakdd2020.org/callforpapers.html/''>here</a>.'
 
 
 - title: ECAI
