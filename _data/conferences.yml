@@ -116,6 +116,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
 
 
+- title: PAKDD
+  year: 2020
+  id: pakdd2020
+  link: https://www.pakdd2020.org/
+  deadline: '2019-11-25，23：59：59'
+  timezone: Pacific Standar Time
+  date: May 11-14
+  place:  Singapore
+  sub: DM
+  note: '<b>NOTE</b>: Mandatory abstract deadline on November 18, 2019. More info <a href=''https://www.pakdd2020.org/callforpapers.html''>here</a>.'
+
+
 - title: ECAI
   year: 2020
   id: ecai2020
@@ -150,17 +162,6 @@
   place: Portland, Oregon, USA
   sub: DB
   note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
-
-
-# - title: PAKDD
-#   year: 2020
-#   id: pakdd2020
-#   link: https://www.pakdd2020.org/
-#   deadline: 
-#   timezone: 
-#   date: May 11-14
-#   place:  Singapore
-#   sub: DM
 
 
 # - title: AAMAS
