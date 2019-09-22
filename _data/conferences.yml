@@ -1,16 +1,4 @@
-
 ---
-- title: ALT
-  year: 2020
-  id: alt2020
-  link: http://alt2020.algorithmiclearningtheory.org/
-  deadline: '2019-09-20 16:59:59'
-  timezone: America/New_York
-  date: February 08-10, 2020
-  place: San Diego, CA, United States
-  sub: ML
-
-
 - title: ICDT SECOND ROUND
   year: 2020
   id: icdt2020_2nd
@@ -372,3 +360,14 @@
 #   place: New York, New York, USA
 #   sub: ML
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2019. More info <a href=''https://aaai.org/Conferences/AAAI-20/aaai20call/''>here</a>.'
+
+
+# - title: ALT
+#   year: 2020
+#   id: alt2020
+#   link: http://alt2020.algorithmiclearningtheory.org/
+#   deadline: '2019-09-20 16:59:59'
+#   timezone: America/New_York
+#   date: February 08-10, 2020
+#   place: San Diego, CA, United States
+#   sub: ML
