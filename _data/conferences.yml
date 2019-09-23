@@ -152,6 +152,41 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
 
 
+- title: IJCAI
+  year: 2020
+  id: ijcai20
+  link: https://www.ijcai20.org/
+  deadline: '2020-01-21 23:59:59'
+  timezone: UTC-12
+  date: July 11-17, 2020
+  place: Yokohama, Japan
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://www.ijcai20.org''>here</a>.'
+
+
+- title: ICML
+  year: 2020
+  id: icml20
+  link: https://icml.cc/Conferences/2020
+  deadline: '2020-02-07 15:59:00'
+  timezone: America/Los_Angeles
+  date: July 12-18, 2020
+  place: Vienna, Austria
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 31, 2020. More info <a href=''https://icml.cc/Conferences/2020''>here</a>.'
+
+
+- title: VLDB
+  year: 2020
+  id: vldb20
+  link: https://vldb2020.org/
+  deadline: '2020-03-01 16:59:59'
+  timezone: UTC-7
+  date: Aug 31-Sep 4, 2020
+  place: Tokyo, Japan
+  sub: DB
+
+
 # - title: AAMAS
 #   year: 2019
 #   id: aamas19
@@ -172,18 +207,6 @@
 #   date: June 2-7, 2019
 #   place: Minneapolis, USA
 #   sub: NLP
-
-
-# - title: ICML
-#   year: 2019
-#   id: icml19
-#   link: https://icml.cc/Conferences/2019
-#   deadline: '2019-01-23 15:59:00'
-#   timezone: America/Los_Angeles
-#   date: June 10-15, 2019
-#   place: Long Beach, USA
-#   sub: ML
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
 
 
 # - title: GECCO
@@ -217,18 +240,6 @@
 #   date: August 3-7, 2019
 #   place: Anchorage, Alaska, USA
 #   sub: DM
-
-
-# - title: IJCAI
-#   year: 2019
-#   id: ijcai19
-#   link: https://www.ijcai19.org/
-#   deadline: '2019-02-25 23:59:59'
-#   timezone: UTC-12
-#   date: August 10-16, 2019
-#   place: Macau, China
-#   sub: ML
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href=''https://www.ijcai19.org/call-for-papers.html''>here</a>.'
 
 
 # - title: ACL
