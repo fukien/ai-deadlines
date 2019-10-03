@@ -34,9 +34,9 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://diku-dk.github.io/edbticdt2020/?contents=EDBT_CFP.html''>here</a>.'
 
 
-- title: WWW
+- title: TheWebConf
   year: 2020
-  id: www2020
+  id: thewebconf2020
   link: https://www2020.thewebconf.org/
   deadline: '2019-10-14 23:59:59'
   timezone: UTC-12
