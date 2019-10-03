@@ -1,15 +1,4 @@
 ---
-- title: ECIR
-  year: 2020
-  id: ecir2020
-  link: https://ecir2020.org/
-  deadline: '2019-10-01 23:59:59'
-  timezone: UTC-12
-  date: April 15-17, 2020
-  place: Lisbon, Portugal
-  sub: ML
-
-
 - title: AISTATS
   year: 2020
   id: aistats2020
@@ -393,4 +382,15 @@
 #   timezone: Africa/Nairobi
 #   date: April 30, 2020
 #   place: Addis Ababa, Ethiopia
+#   sub: ML
+
+
+# - title: ECIR
+#   year: 2020
+#   id: ecir2020
+#   link: https://ecir2020.org/
+#   deadline: '2019-10-01 23:59:59'
+#   timezone: UTC-12
+#   date: April 15-17, 2020
+#   place: Lisbon, Portugal
 #   sub: ML
