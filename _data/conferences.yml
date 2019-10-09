@@ -1,15 +1,4 @@
 ---
-- title: AISTATS
-  year: 2020
-  id: aistats2020
-  link: https://www.aistats.org/
-  deadline: '2019-10-08 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 3-5, 2020
-  place: Palermo, Sicily, Italy
-  sub: ML
-
-
 - title: SDM
   year: 2020
   id: sdm2020
@@ -393,4 +382,15 @@
 #   timezone: UTC-12
 #   date: April 15-17, 2020
 #   place: Lisbon, Portugal
+#   sub: ML
+
+
+# - title: AISTATS
+#   year: 2020
+#   id: aistats2020
+#   link: https://www.aistats.org/
+#   deadline: '2019-10-08 23:59:59'
+#   timezone: America/Los_Angeles
+#   date: June 3-5, 2020
+#   place: Palermo, Sicily, Italy
 #   sub: ML
