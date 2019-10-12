@@ -1,16 +1,4 @@
 ---
-- title: EDBT
-  year: 2020
-  id: edbt2020
-  link: https://diku-dk.github.io/edbticdt2020/
-  deadline: '2019-10-11 23:59:59'
-  timezone: UTC-12
-  date: March 30th - April 2nd, 2020
-  place: Copenhagen, Denmark
-  sub: DB
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://diku-dk.github.io/edbticdt2020/?contents=EDBT_CFP.html''>here</a>.'
-
-
 - title: TheWebConf
   year: 2020
   id: thewebconf2020
@@ -394,3 +382,15 @@
 #   place: Cincinnatti, Ohio, United States
 #   sub: DM
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on October 4, 2019. More info <a href=''https://www.siam.org/Conferences/CM/Submissions-and-Deadlines/sdm20-submissions-deadlines''>here</a>.'
+
+
+# - title: EDBT
+#   year: 2020
+#   id: edbt2020
+#   link: https://diku-dk.github.io/edbticdt2020/
+#   deadline: '2019-10-11 23:59:59'
+#   timezone: UTC-12
+#   date: March 30th - April 2nd, 2020
+#   place: Copenhagen, Denmark
+#   sub: DB
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://diku-dk.github.io/edbticdt2020/?contents=EDBT_CFP.html''>here</a>.'
