@@ -1,16 +1,4 @@
 ---
-- title: SIGMOD SECOND ROUND
-  year: 2020
-  id: sigmod2020_2nd
-  link: https://sigmod2020.org/
-  deadline: '2019-10-22 16:59:59'
-  timezone: UTC-7
-  date: June 14-19, 2020
-  place: Portland, Oregon, USA
-  sub: DB
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
-
-
 - title: ECAI
   year: 2020
   id: ecai2020
@@ -394,3 +382,15 @@
 #   place: Dallas, Texas, USA
 #   sub: DB
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on October 8, 2019. More info <a href=''https://www.utdallas.edu/icde/call.html/''>here</a>.'
+
+
+# - title: SIGMOD SECOND ROUND
+#   year: 2020
+#   id: sigmod2020_2nd
+#   link: https://sigmod2020.org/
+#   deadline: '2019-10-22 16:59:59'
+#   timezone: UTC-7
+#   date: June 14-19, 2020
+#   place: Portland, Oregon, USA
+#   sub: DB
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on October 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
