@@ -118,6 +118,17 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 19, 2019. More info <ahref="https://ecmlpkdd2020.net/submissions/deadlines/">here</a>.'
 
 
+- title: COLING
+  year: 2020
+  id: coling2020
+  link: https://coling2020.org/
+  deadline: '2020-04-08 23:59:59'
+  timezone: UTC+1
+  date: September 13-18, 2020
+  place: Barcelona, Spain
+  sub: NLP
+
+
 # - title: AAMAS
 #   year: 2019
 #   id: aamas2019
