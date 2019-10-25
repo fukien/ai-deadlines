@@ -61,7 +61,7 @@
 
 - title: IJCAI
   year: 2020
-  id: ijcai20
+  id: ijcai2020
   link: https://www.ijcai20.org/
   deadline: '2020-01-21 23:59:59'
   timezone: UTC-12
@@ -71,9 +71,21 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://www.ijcai20.org''>here</a>.'
 
 
+- title: SIGIR
+  year: 2020
+  id: sigir2020
+  link: https://sigir.org/sigir2020/
+  deadline: '2020-01-22 23:59:59'
+  timezone: UTC-12
+  date: July 25-30, 2020
+  place: Xi'an, China
+  sub: DB
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://sigir.org/sigir2020/''>here</a>.'
+
+
 - title: ICML
   year: 2020
-  id: icml20
+  id: icml2020
   link: https://icml.cc/Conferences/2020
   deadline: '2020-02-07 15:59:00'
   timezone: America/Los_Angeles
@@ -85,7 +97,7 @@
 
 - title: VLDB
   year: 2020
-  id: vldb20
+  id: vldb2020
   link: https://vldb2020.org/
   deadline: '2020-03-01 16:59:59'
   timezone: UTC-7
@@ -94,9 +106,21 @@
   sub: DB
 
 
+- title: ECML/PKDD
+  year: 2020
+  id: ecmlpkdd2020
+  link: https://ecmlpkdd2020.net/
+  deadline: '2020-03-26 23:59:59'
+  timezone: UTC-12
+  date: September 14-18, 2020
+  place: "Ghent, Belgium"
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 19, 2019. More info <ahref="https://ecmlpkdd2020.net/submissions/deadlines/">here</a>.'
+
+
 # - title: AAMAS
 #   year: 2019
-#   id: aamas19
+#   id: aamas2019
 #   link: http://aamas2019.encs.concordia.ca/
 #   deadline: '2018-11-16 23:59:59'
 #   timezone: UTC
@@ -107,7 +131,7 @@
 
 # - title: NAACL
 #   year: 2019
-#   id: naacl19
+#   id: naacl2019
 #   link: http://naacl2019.org/
 #   deadline: '2018-12-10 23:59:59'
 #   timezone: UTC-12
@@ -118,7 +142,7 @@
 
 # - title: GECCO
 #   year: 2019
-#   id: gecco19
+#   id: gecco2019
 #   link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
 #   deadline: '2019-01-30 23:59:59'
 #   timezone: UTC-10
@@ -129,7 +153,7 @@
 
 # - title: COLT
 #   year: 2019
-#   id: colt19
+#   id: colt2019
 #   link: http://www.learningtheory.org/colt2019/
 #   deadline: '2019-02-01 23:00:00'
 #   timezone: America/New_York
@@ -140,7 +164,7 @@
 
 # - title: KDD
 #   year: 2019
-#   id: kdd19
+#   id: kdd2019
 #   link: https://www.kdd.org/kdd2019
 #   deadline: '2019-02-03 23:59:59'
 #   timezone: UTC-11
@@ -151,7 +175,7 @@
 
 # - title: ACL
 #   year: 2019
-#   id: acl19
+#   id: acl2019
 #   link: http://acl2019.org/
 #   deadline: '2019-03-04 23:59:00'
 #   timezone: UTC-12
@@ -162,7 +186,7 @@
 
 # - title: UAI
 #   year: 2019
-#   id: uai19
+#   id: uai2019
 #   link: http://auai.org/uai2019/
 #   deadline: '2019-03-08 23:59:59'
 #   timezone: UTC-11
@@ -173,22 +197,9 @@
 #     href=''http://auai.org/uai2019/cfp.php''>here</a>.'
 
 
-# - title: ECML/PKDD
-#   year: 2019
-#   id: ecmlpkdd19
-#   link: https://ecmlpkdd2019.org/
-#   deadline: '2019-04-05 23:59:59'
-#   timezone: UTC-12
-#   date: September 16-20, 2019
-#   place: "W\xFCrzburg, Germany"
-#   sub: ML
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on March 29, 2019. More info <a
-#     href="https://ecmlpkdd2019.org/submissions/deadlines/">here</a>.'
-
-
 # - title: EMNLP-IJCNLP
 #   year: 2019
-#   id: emnlp-ijcnlp19
+#   id: emnlp-ijcnlp2019
 #   link: http://emnlp-ijcnlp2019.org/
 #   deadline: '2019-05-21 23:59:59'
 #   timezone: UTC-7
@@ -201,7 +212,7 @@
 
 # - title: NeurIPS
 #   year: 2019
-#   id: neurips19
+#   id: neurips2019
 #   link: https://neurips.cc/Conferences/2019
 #   deadline: '2019-05-23 13:00:00'
 #   timezone: America/Los_Angeles
@@ -236,7 +247,7 @@
 
 # - title: ICDM
 #   year: 2019
-#   id: icdm19
+#   id: icdm2019
 #   link: http://icdm2019.bigke.org/
 #   deadline: '2019-06-05 23:59:59'
 #   timezone: UTC-7
@@ -270,7 +281,7 @@
 
 # - title: AAAI
 #   year: 2020
-#   id: aaai20
+#   id: aaai2020
 #   link: https://aaai.org/Conferences/AAAI-20/
 #   deadline: '2019-09-05 23:59:59'
 #   timezone: UTC-10
