@@ -1,16 +1,4 @@
 ---
-- title: ECAI
-  year: 2020
-  id: ecai2020
-  link: http://ecai2020.eu/
-  deadline: '2019-11-19 23:59:59'
-  timezone: UTC-12
-  date: June 8-12, 2020
-  place: Santiago de Compostela, Spain
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on November 15, 2019. More info <a href=''http://ecai2020.eu/important-dates/''>here</a>.'
-
-
 - title: PAKDD
   year: 2020
   id: pakdd2020
@@ -416,3 +404,15 @@
 #   place: Portland, Oregon, USA
 #   sub: DB
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on October 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
+
+
+# - title: ECAI
+#   year: 2020
+#   id: ecai2020
+#   link: http://ecai2020.eu/
+#   deadline: '2019-11-19 23:59:59'
+#   timezone: UTC-12
+#   date: June 8-12, 2020
+#   place: Santiago de Compostela, Spain
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on November 15, 2019. More info <a href=''http://ecai2020.eu/important-dates/''>here</a>.'
