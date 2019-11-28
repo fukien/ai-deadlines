@@ -1,14 +1,23 @@
 ---
-- title: PAKDD
+- title: LREC
   year: 2020
-  id: pakdd2020
-  link: https://www.pakdd2020.org/
-  deadline: '2019-11-25 23:59:59'
-  timezone: UTC-7
-  date: May 11-14
-  place: Singapore
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on November 18, 2019. More info <a href=''https://www.pakdd2020.org/callforpapers.html/''>here</a>.'
+  id: lrec2020
+  link: https://lrec2020.lrec-conf.org/en/
+  deadline: '2019-12-02 23:59:59'
+  timezone: Europe/Paris
+  date: May 11-16, 2020
+  place: Marseille, France
+  sub: NLP
+
+- title: ACL
+  year: 2020
+  id: acl2020
+  link: https://acl2020.org/
+  deadline: '2019-12-09 23:59:59'
+  timezone: UTC-12
+  date: July 6-8, 2020
+  place: Seattle, Washington, USA
+  sub: NLP
 
 
 - title: ESWC
@@ -170,17 +179,6 @@
 #   date: July 13 - 17, 2019
 #   place: Prague, Czech Republic
 #   sub: ML
-
-
-# - title: ACL
-#   year: 2019
-#   id: acl2019
-#   link: http://acl2019.org/
-#   deadline: '2019-03-04 23:59:00'
-#   timezone: UTC-12
-#   date: July 28-August 2, 2019
-#   place: Florence, Italy
-#   sub: NLP
 
 
 # - title: UAI
@@ -416,3 +414,15 @@
 #   place: Santiago de Compostela, Spain
 #   sub: ML
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on November 15, 2019. More info <a href=''http://ecai2020.eu/important-dates/''>here</a>.'
+
+
+# - title: PAKDD
+#   year: 2020
+#   id: pakdd2020
+#   link: https://www.pakdd2020.org/
+#   deadline: '2019-11-25 23:59:59'
+#   timezone: UTC-7
+#   date: May 11-14
+#   place: Singapore
+#   sub: DM
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on November 18, 2019. More info <a href=''https://www.pakdd2020.org/callforpapers.html/''>here</a>.'
