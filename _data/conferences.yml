@@ -93,6 +93,17 @@
   sub: DM
 
 
+- title: UAI
+  year: 2020
+  id: uai2020
+  link: http://auai.org/uai2019/
+  deadline: '2020-02-20 23:59:59'
+  timezone: UTC-11
+  date: August 3-6, 2020
+  place: Toronto, Canada
+  sub: ML
+
+
 - title: VLDB
   year: 2020
   id: vldb2020
@@ -111,9 +122,20 @@
   deadline: '2020-03-26 23:59:59'
   timezone: UTC-12
   date: September 14-18, 2020
-  place: "Ghent, Belgium"
+  place: Ghent, Belgium
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 19, 2019. More info <ahref="https://ecmlpkdd2020.net/submissions/deadlines/">here</a>.'
+
+
+- title: ASONAM
+  year: 2020
+  id: asonam2020
+  link: http://asonam.cpsc.ucalgary.ca/2020/
+  deadline: '2020-04-05, 23:59:59'
+  timezone: UTC-11
+  date: August 3-6, 2020
+  place: Hague, Netherlands
+  sub: ML
 
 
 - title: COLING
@@ -125,6 +147,17 @@
   date: September 13-18, 2020
   place: Barcelona, Spain
   sub: NLP
+
+
+- title: DSAA
+  year: 2020
+  id: dsaa2020
+  link: http://203.170.84.89/~idawis33/dsaa2020/
+  deadline: '2020-05-24, 23:59:59'
+  timezone: UTC-5
+  date: October 6-9, 2020
+  place: Sydney, Australia
+  sub: DM
 
 
 # - title: AAMAS
@@ -158,19 +191,6 @@
 #   date: July 13 - 17, 2019
 #   place: Prague, Czech Republic
 #   sub: ML
-
-
-# - title: UAI
-#   year: 2019
-#   id: uai2019
-#   link: http://auai.org/uai2019/
-#   deadline: '2019-03-08 23:59:59'
-#   timezone: UTC-11
-#   date: July 22-26, 2019
-#   place: Tel Aviv, Israel
-#   sub: ML
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on March 04, 2019. More info <a
-#     href=''http://auai.org/uai2019/cfp.php''>here</a>.'
 
 
 # - title: EMNLP-IJCNLP
