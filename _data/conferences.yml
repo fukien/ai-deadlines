@@ -1,16 +1,4 @@
 ---
-- title: ESWC
-  year: 2020
-  id: eswc2020
-  link: https://2020-test.eswc-conferences.org/
-  deadline: '2019-12-11 23:59:59'
-  timezone: UTC-12
-  date: May 31-June 4, 2019
-  place: Heraklion, Crete, Greece
-  sub: DB
-  note: '<b>NOTE</b>: Mandatory abstract deadline on December 4, 2019. More info <a href=''https://2020-test.eswc-conferences.org/''>here</a>.'
-
-
 - title: DASFAA
   year: 2020
   id: dasfaa_2020
@@ -447,3 +435,15 @@
 #   date: July 6-8, 2020
 #   place: Seattle, Washington, USA
 #   sub: NLP
+
+
+# - title: ESWC
+#   year: 2020
+#   id: eswc2020
+#   link: https://2020-test.eswc-conferences.org/
+#   deadline: '2019-12-11 23:59:59'
+#   timezone: UTC-12
+#   date: May 31-June 4, 2019
+#   place: Heraklion, Crete, Greece
+#   sub: DB
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on December 4, 2019. More info <a href=''https://2020-test.eswc-conferences.org/''>here</a>.'
