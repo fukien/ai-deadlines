@@ -1,16 +1,4 @@
 ---
-- title: DASFAA
-  year: 2020
-  id: dasfaa_2020
-  link: http://db.pknu.ac.kr/dasfaa2020/
-  deadline: '2019-12-20 23:59:59'
-  timezone: UTC-12
-  date: May 21-24, 2020
-  place: Jeju, South Korea
-  sub: DB
-  note: '<b>NOTE</b>: Mandatory abstract deadline on December 13, 2019. More info <a href=''http://db.pknu.ac.kr/dasfaa2020/?call_for_papers/''>here</a>.'
-
-
 - title: PODS SECOND ROUND
   year: 2020
   id: pods2020_2nd
@@ -447,3 +435,15 @@
 #   place: Heraklion, Crete, Greece
 #   sub: DB
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on December 4, 2019. More info <a href=''https://2020-test.eswc-conferences.org/''>here</a>.'
+
+
+# - title: DASFAA
+#   year: 2020
+#   id: dasfaa_2020
+#   link: http://db.pknu.ac.kr/dasfaa2020/
+#   deadline: '2019-12-20 23:59:59'
+#   timezone: UTC-12
+#   date: May 21-24, 2020
+#   place: Jeju, South Korea
+#   sub: DB
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on December 13, 2019. More info <a href=''http://db.pknu.ac.kr/dasfaa2020/?call_for_papers/''>here</a>.'
