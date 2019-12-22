@@ -100,7 +100,7 @@
   date: September 14-18, 2020
   place: Ghent, Belgium
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 19, 2019. More info <ahref="https://ecmlpkdd2020.net/submissions/deadlines/">here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 19, 2020. More info <ahref="https://ecmlpkdd2020.net/submissions/deadlines/">here</a>.'
 
 
 - title: ASONAM
@@ -112,6 +112,18 @@
   date: August 3-6, 2020
   place: Hague, Netherlands
   sub: ML
+
+
+- title: ISWC
+  year: 2020
+  id: iswc2020
+  link: https://iswc2020.semanticweb.org/
+  deadline: '2020-04-03, 23:59:59'
+  timezone: UTC-12
+  date: November 2-6, 2020
+  place: Athens, Greece
+  sub: DB
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2020. More info <ahref="https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/">here</a>.'
 
 
 - title: COLING
@@ -134,6 +146,17 @@
   date: October 6-9, 2020
   place: Sydney, Australia
   sub: DM
+
+
+- title: IJCNLP
+  year: 2020
+  id: ijcnlp2020
+  link: http://aacl2020.org/
+  deadline: '2020-06-26, 23:59:59'
+  timezone: UTC-12
+  date: December 4-7, 2020
+  place: Suzhou, China
+  sub: NLP
 
 
 # - title: AAMAS
