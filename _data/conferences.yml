@@ -1,28 +1,4 @@
 ---
-- title: IJCAI
-  year: 2020
-  id: ijcai2020
-  link: https://www.ijcai20.org/
-  deadline: '2020-01-21 23:59:59'
-  timezone: UTC-12
-  date: July 11-17, 2020
-  place: Yokohama, Japan
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://www.ijcai20.org''>here</a>.'
-
-
-- title: SIGIR
-  year: 2020
-  id: sigir2020
-  link: https://sigir.org/sigir2020/
-  deadline: '2020-01-22 23:59:59'
-  timezone: UTC-12
-  date: July 25-30, 2020
-  place: Xi'an, China
-  sub: DB
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://sigir.org/sigir2020/''>here</a>.'
-
-
 - title: COLT
   year: 2020
   id: colt2020
@@ -470,3 +446,27 @@
 #   place: Portland, Oregon, USA
 #   sub: DB
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
+
+
+# - title: IJCAI
+#   year: 2020
+#   id: ijcai2020
+#   link: https://www.ijcai20.org/
+#   deadline: '2020-01-21 23:59:59'
+#   timezone: UTC-12
+#   date: July 11-17, 2020
+#   place: Yokohama, Japan
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://www.ijcai20.org''>here</a>.'
+
+
+# - title: SIGIR
+#   year: 2020
+#   id: sigir2020
+#   link: https://sigir.org/sigir2020/
+#   deadline: '2020-01-22 23:59:59'
+#   timezone: UTC-12
+#   date: July 25-30, 2020
+#   place: Xi'an, China
+#   sub: DB
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://sigir.org/sigir2020/''>here</a>.'
