@@ -67,6 +67,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 19, 2020. More info <ahref="https://ecmlpkdd2020.net/submissions/deadlines/">here</a>.'
 
 
+- title: ACM MM
+  year: 2020
+  id: acmmm2020
+  link: https://2020.acmmm.org/
+  deadline: '2020-03-28 23:59:59'
+  timezone: UTC-12
+  date: October 12-16, 2020
+  place: Seattle, Washington, USA
+  sub: IA
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 21, 2020. More info <ahref="https://2020.acmmm.org/call-for-paper.html">here</a>.'
+
+
 - title: ASONAM
   year: 2020
   id: asonam2020
@@ -88,6 +100,17 @@
   place: Athens, Greece
   sub: DB
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2020. More info <ahref="https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/">here</a>.'
+
+
+- title: EMNLP
+  year: 2020
+  id: emnlp20
+  link: https://2020.emnlp.org/
+  deadline: '2020-05-11 23:59:00'
+  timezone: UTC-12
+  date: November 8-10, 2020
+  place: Punta Cana, Dominican Republic
+  sub: NLP
 
 
 - title: COLING
@@ -113,6 +136,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href=''https://cikm2020.org/call-for-papers-full-and-short-research-papers/''>here</a>.'
 
 
+- title: RecSys
+  year: 2020
+  id: recsys2020
+  link: https://recsys.acm.org/recsys20/
+  deadline: '2020-05-04, 23:59:59'
+  timezone: UTC-12
+  date: September 22-26, 2020
+  place: Rio de Janeiro, Brazil
+  sub: DM
+  note: note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 27, 2020. More info <a href=''https://recsys.acm.org/recsys20/call/''>here</a>.'
+
+
 - title: DSAA
   year: 2020
   id: dsaa2020
@@ -135,9 +170,9 @@
   sub: DM
 
 
-- title: IJCNLP
+- title: AACL-IJCNLP
   year: 2020
-  id: ijcnlp2020
+  id: aacl-ijcnlp2020
   link: http://aacl2020.org/
   deadline: '2020-06-26, 23:59:59'
   timezone: UTC-12
@@ -177,19 +212,6 @@
 #   date: July 13 - 17, 2019
 #   place: Prague, Czech Republic
 #   sub: ML
-
-
-# - title: EMNLP-IJCNLP
-#   year: 2019
-#   id: emnlp-ijcnlp2019
-#   link: http://emnlp-ijcnlp2019.org/
-#   deadline: '2019-05-21 23:59:59'
-#   timezone: UTC-7
-#   date: November 3-7, 2019
-#   place: Hong Kong
-#   sub: NLP
-#   note: '<b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
-#     <a href="https://www.emnlp-ijcnlp2019.org/calls/papers">here</a>.'
 
 
 # - title: NeurIPS
