@@ -13,11 +13,12 @@ To add or update information:
 
 ## Fork & some useful links:
 - [ai-deadlines.es](https://aideadlin.es/?sub=DM,ML,NLP,SP,CV,RO)
+- [conferencelist.info](http://www.conferencelist.info/)
+- [ACM-Upcoming-Submission-Deadlines](https://www.acm.org/conferences/upcoming-submission-deadlines)
 - [data-mining-conferences](https://github.com/yzhao062/data-mining-conferences)
 - [conference-acceptance-rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 - [database-conferene-acceptance-rate](https://fusiontables.google.com/DataSource?dsrcid=3305#rows:id=1)
 - [conferenceranks.com](http://www.conferenceranks.com/)
-- [conferencelist.info](http://www.conferencelist.info/)
 - [CCF conference ranking](https://www.ccf.org.cn/xspj/gyml/)
 - [JHU SoC Conference ranking](http://www.cs.jhu.edu/~taochen/SoC_Conference_Ranking.html)
 - [JHU SoC Journal Ranking](http://www.cs.jhu.edu/~taochen/SoC_Journal_Ranking.html)
