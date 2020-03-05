@@ -1,15 +1,4 @@
 ---
-- title: VLDB
-  year: 2020
-  id: vldb2020
-  link: https://vldb2020.org/
-  deadline: '2020-03-01 16:59:59'
-  timezone: UTC-7
-  date: Aug 31-Sep 4, 2020
-  place: Tokyo, Japan
-  sub: DB
-
-
 - title: ECML/PKDD
   year: 2020
   id: ecmlpkdd2020
@@ -492,3 +481,14 @@
 #   date: August 3-6, 2020
 #   place: Toronto, Canada
 #   sub: ML
+
+
+# - title: VLDB
+#   year: 2020
+#   id: vldb2020
+#   link: https://vldb2020.org/
+#   deadline: '2020-03-01 16:59:59'
+#   timezone: UTC-7
+#   date: Aug 31-Sep 4, 2020
+#   place: Tokyo, Japan
+#   sub: DB
