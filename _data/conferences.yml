@@ -1,28 +1,4 @@
 ---
-- title: ECML/PKDD
-  year: 2020
-  id: ecmlpkdd2020
-  link: https://ecmlpkdd2020.net/
-  deadline: '2020-03-26 23:59:59'
-  timezone: UTC-12
-  date: September 14-18, 2020
-  place: Ghent, Belgium
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 19, 2020. More info <ahref="https://ecmlpkdd2020.net/submissions/deadlines/">here</a>.'
-
-
-- title: ACM MM
-  year: 2020
-  id: acmmm2020
-  link: https://2020.acmmm.org/
-  deadline: '2020-03-28 23:59:59'
-  timezone: UTC-12
-  date: October 12-16, 2020
-  place: Seattle, Washington, USA
-  sub: IA
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 21, 2020. More info <ahref="https://2020.acmmm.org/call-for-paper.html">here</a>.'
-
-
 - title: ASONAM
   year: 2020
   id: asonam2020
@@ -492,3 +468,27 @@
 #   date: Aug 31-Sep 4, 2020
 #   place: Tokyo, Japan
 #   sub: DB
+
+
+# - title: ECML/PKDD
+#   year: 2020
+#   id: ecmlpkdd2020
+#   link: https://ecmlpkdd2020.net/
+#   deadline: '2020-03-26 23:59:59'
+#   timezone: UTC-12
+#   date: September 14-18, 2020
+#   place: Ghent, Belgium
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on March 19, 2020. More info <ahref="https://ecmlpkdd2020.net/submissions/deadlines/">here</a>.'
+
+
+# - title: ACM MM
+#   year: 2020
+#   id: acmmm2020
+#   link: https://2020.acmmm.org/
+#   deadline: '2020-03-28 23:59:59'
+#   timezone: UTC-12
+#   date: October 12-16, 2020
+#   place: Seattle, Washington, USA
+#   sub: IA
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on March 21, 2020. More info <ahref="https://2020.acmmm.org/call-for-paper.html">here</a>.'
