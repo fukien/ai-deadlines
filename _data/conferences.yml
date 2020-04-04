@@ -1,27 +1,4 @@
 ---
-- title: ASONAM
-  year: 2020
-  id: asonam2020
-  link: http://asonam.cpsc.ucalgary.ca/2020/
-  deadline: '2020-04-05, 23:59:59'
-  timezone: UTC-11
-  date: August 3-6, 2020
-  place: Hague, Netherlands
-  sub: ML
-
-
-- title: ISWC
-  year: 2020
-  id: iswc2020
-  link: https://iswc2020.semanticweb.org/
-  deadline: '2020-04-03, 23:59:59'
-  timezone: UTC-12
-  date: November 2-6, 2020
-  place: Athens, Greece
-  sub: DB
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2020. More info <ahref="https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/">here</a>.'
-
-
 - title: EMNLP
   year: 2020
   id: emnlp20
@@ -492,3 +469,26 @@
 #   place: Seattle, Washington, USA
 #   sub: IA
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on March 21, 2020. More info <ahref="https://2020.acmmm.org/call-for-paper.html">here</a>.'
+
+
+# - title: ASONAM
+#   year: 2020
+#   id: asonam2020
+#   link: http://asonam.cpsc.ucalgary.ca/2020/
+#   deadline: '2020-04-05, 23:59:59'
+#   timezone: UTC-11
+#   date: August 3-6, 2020
+#   place: Hague, Netherlands
+#   sub: ML
+
+
+# - title: ISWC
+#   year: 2020
+#   id: iswc2020
+#   link: https://iswc2020.semanticweb.org/
+#   deadline: '2020-04-03, 23:59:59'
+#   timezone: UTC-12
+#   date: November 2-6, 2020
+#   place: Athens, Greece
+#   sub: DB
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2020. More info <ahref="https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/">here</a>.'
