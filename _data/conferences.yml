@@ -1,26 +1,4 @@
 ---
-- title: EMNLP
-  year: 2020
-  id: emnlp20
-  link: https://2020.emnlp.org/
-  deadline: '2020-05-11 23:59:00'
-  timezone: UTC-12
-  date: November 8-10, 2020
-  place: Punta Cana, Dominican Republic
-  sub: NLP
-
-
-- title: COLING
-  year: 2020
-  id: coling2020
-  link: https://coling2020.org/
-  deadline: '2020-04-08 23:59:59'
-  timezone: UTC+1
-  date: September 13-18, 2020
-  place: Barcelona, Spain
-  sub: NLP
-
-
 - title: CIKM
   year: 2019
   id: cikm2019
@@ -43,6 +21,17 @@
   place: Rio de Janeiro, Brazil
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 27, 2020. More info <a href=''https://recsys.acm.org/recsys20/call/''>here</a>.'
+
+
+- title: EMNLP
+  year: 2020
+  id: emnlp20
+  link: https://2020.emnlp.org/
+  deadline: '2020-05-11 23:59:00'
+  timezone: UTC-12
+  date: November 8-10, 2020
+  place: Punta Cana, Dominican Republic
+  sub: NLP
 
 
 - title: DSAA
@@ -492,3 +481,14 @@
 #   place: Athens, Greece
 #   sub: DB
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2020. More info <ahref="https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/">here</a>.'
+
+
+# - title: COLING
+#   year: 2020
+#   id: coling2020
+#   link: https://coling2020.org/
+#   deadline: '2020-04-08 23:59:59'
+#   timezone: UTC+1
+#   date: September 13-18, 2020
+#   place: Barcelona, Spain
+#   sub: NLP
