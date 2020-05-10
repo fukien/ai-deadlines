@@ -1,16 +1,4 @@
 ---
-- title: CIKM
-  year: 2019
-  id: cikm2019
-  link: https://cikm2020.org/
-  deadline: '2020-05-08 23:59:59'
-  timezone: UTC-12
-  date: October 19-23, 2020
-  place: Galway, Ireland
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href=''https://cikm2020.org/call-for-papers-full-and-short-research-papers/''>here</a>.'
-
-
 - title: EMNLP
   year: 2020
   id: emnlp20
@@ -492,3 +480,15 @@
 #   place: Rio de Janeiro, Brazil
 #   sub: DM
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 27, 2020. More info <a href=''https://recsys.acm.org/recsys20/call/''>here</a>.'
+
+
+# - title: CIKM
+#   year: 2019
+#   id: cikm2019
+#   link: https://cikm2020.org/
+#   deadline: '2020-05-08 23:59:59'
+#   timezone: UTC-12
+#   date: October 19-23, 2020
+#   place: Galway, Ireland
+#   sub: DM
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href=''https://cikm2020.org/call-for-papers-full-and-short-research-papers/''>here</a>.'
