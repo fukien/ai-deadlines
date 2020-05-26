@@ -1,15 +1,4 @@
 ---
-- title: DSAA
-  year: 2020
-  id: dsaa2020
-  link: http://203.170.84.89/~idawis33/dsaa2020/
-  deadline: '2020-05-24, 23:59:59'
-  timezone: UTC-5
-  date: October 6-9, 2020
-  place: Sydney, Australia
-  sub: DM
-
-
 - title: ICDM
   year: 2020
   id: icdm2020
@@ -492,3 +481,14 @@
 #   date: November 8-10, 2020
 #   place: Punta Cana, Dominican Republic
 #   sub: NLP
+
+
+# - title: DSAA
+#   year: 2020
+#   id: dsaa2020
+#   link: http://203.170.84.89/~idawis33/dsaa2020/
+#   deadline: '2020-05-24, 23:59:59'
+#   timezone: UTC-5
+#   date: October 6-9, 2020
+#   place: Sydney, Australia
+#   sub: DM
