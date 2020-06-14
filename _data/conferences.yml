@@ -1,15 +1,4 @@
 ---
-- title: ICDM
-  year: 2020
-  id: icdm2020
-  link: http://www.icdm2020.unical.it/
-  deadline: '2020-06-11 23:59:59'
-  timezone: UTC-7
-  date: November 17-20, 2020
-  place: Sorrento, Italy
-  sub: DM
-
-
 - title: AACL-IJCNLP
   year: 2020
   id: aacl-ijcnlp2020
@@ -481,3 +470,14 @@
 #   date: November 16-18, 2020
 #   place: Punta Cana, Dominican Republic
 #   sub: NLP
+
+
+# - title: ICDM
+#   year: 2020
+#   id: icdm2020
+#   link: http://www.icdm2020.unical.it/
+#   deadline: '2020-06-11 23:59:59'
+#   timezone: UTC-7
+#   date: November 17-20, 2020
+#   place: Sorrento, Italy
+#   sub: DM
