@@ -1,15 +1,4 @@
 ---
-- title: AACL-IJCNLP
-  year: 2020
-  id: aacl-ijcnlp2020
-  link: http://aacl2020.org/
-  deadline: '2020-06-26, 23:59:59'
-  timezone: UTC-12
-  date: December 4-7, 2020
-  place: Suzhou, Jiangsu, China
-  sub: NLP
-
-
 # - title: AAMAS
 #   year: 2019
 #   id: aamas2019
@@ -481,3 +470,14 @@
 #   date: November 17-20, 2020
 #   place: Sorrento, Italy
 #   sub: DM
+
+
+# - title: AACL-IJCNLP
+#   year: 2020
+#   id: aacl-ijcnlp2020
+#   link: http://aacl2020.org/
+#   deadline: '2020-06-26, 23:59:59'
+#   timezone: UTC-12
+#   date: December 4-7, 2020
+#   place: Suzhou, Jiangsu, China
+#   sub: NLP
