@@ -4,10 +4,10 @@ description: Countdowns to top DB/AI/DM/IR/ML/NLP conference deadlines
 author: Wentao Huang
 
 domain: "fukien.github.io"
-baseurl: "/ai-db-deadlines"
+baseurl: "/db-ai-deadlines"
 
 github_username: fukien
-github_repo: ai-db-deadlines
+github_repo: db-ai-deadlines
 
 markdown: kramdown
 ga_id:
