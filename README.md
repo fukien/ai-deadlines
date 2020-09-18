@@ -1,6 +1,6 @@
-## AI-DB Deadlines
+## DB-AI Deadlines
 
-Countdown timers to keep track of a bunch of AI/DB conference deadlines.
+Countdown timers to keep track of a bunch of DB/AI conference deadlines.
 
 ## Adding/updating a conference
 
