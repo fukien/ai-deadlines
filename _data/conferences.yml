@@ -1,4 +1,39 @@
 ---
+- title: IJCAI
+  year: 2021
+  id: ijcai2021
+  link: https://ijcai-21.org/
+  deadline: '2021-01-18 23:59:59'
+  timezone: UTC-12
+  date: August 21-26, 2021
+  place: Montreal, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 12, 2021. More info <a href=''https://ijcai-21.org/cfp/''>here</a>.'
+
+
+- title: SIGIR
+  year: 2021
+  id: sigir2021
+  link: https://sigir.org/sigir2021/
+  deadline: '2021-02-09 23:59:59'
+  timezone: UTC-12
+  date: July 11-15, 2021
+  place: Montreal, Canada
+  sub: DB
+  note: '<b>NOTE</b>: Mandatory abstract deadline on February 2, 2021. More info <a href=''http://sigir.org/sigir2021/call-for-full-papers/''>here</a>.'
+
+
+- title: VLDB
+  year: 2021
+  id: vldb2021
+  link: http://vldb.org/2021/
+  deadline: '2021-03-01 16:59:59'
+  timezone: UTC-7
+  date: Aug 16-20, 2021
+  place: Copenhagen, Denmark
+  sub: DB
+
+
 # - title: AAMAS
 #   year: 2019
 #   id: aamas2019
@@ -288,30 +323,6 @@
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on December 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
 
 
-# - title: IJCAI
-#   year: 2020
-#   id: ijcai2020
-#   link: https://www.ijcai20.org/
-#   deadline: '2020-01-21 23:59:59'
-#   timezone: UTC-12
-#   date: July 11-17, 2020
-#   place: Yokohama, Japan
-#   sub: ML
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://www.ijcai20.org''>here</a>.'
-
-
-# - title: SIGIR
-#   year: 2020
-#   id: sigir2020
-#   link: https://sigir.org/sigir2020/
-#   deadline: '2020-01-22 23:59:59'
-#   timezone: UTC-12
-#   date: July 25-30, 2020
-#   place: Xi'an, Shaanxi, China
-#   sub: DB
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 15, 2020. More info <a href=''https://sigir.org/sigir2020/''>here</a>.'
-
-
 # - title: COLT
 #   year: 2020
 #   id: colt2020
@@ -355,17 +366,6 @@
 #   date: August 3-6, 2020
 #   place: Toronto, Canada
 #   sub: ML
-
-
-# - title: VLDB
-#   year: 2020
-#   id: vldb2020
-#   link: https://vldb2020.org/
-#   deadline: '2020-03-01 16:59:59'
-#   timezone: UTC-7
-#   date: Aug 31-Sep 4, 2020
-#   place: Tokyo, Japan
-#   sub: DB
 
 
 # - title: ECML/PKDD
@@ -470,14 +470,3 @@
 #   date: November 17-20, 2020
 #   place: Sorrento, Italy
 #   sub: DM
-
-
-# - title: AACL-IJCNLP
-#   year: 2020
-#   id: aacl-ijcnlp2020
-#   link: http://aacl2020.org/
-#   deadline: '2020-06-26, 23:59:59'
-#   timezone: UTC-12
-#   date: December 4-7, 2020
-#   place: Suzhou, Jiangsu, China
-#   sub: NLP
