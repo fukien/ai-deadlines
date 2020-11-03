@@ -11,6 +11,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 12, 2021. More info <a href=''https://ijcai-21.org/cfp/''>here</a>.'
 
 
+- title: ICML
+  year: 2021
+  id: icml2021
+  link: https://icml.cc/Conferences/2021
+  deadline: '2020-02-04 23:59:59'
+  timezone: UTC-12
+  date: July 18-24, 2021
+  place: Vienna, Austria
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 28, 2021. More info <a href=''https://icml.cc/Conferences/2021''>here</a>.'
+
+
 - title: SIGIR
   year: 2021
   id: sigir2021
@@ -332,18 +344,6 @@
 #   timezone: America/Los_Angeles
 #   place: Graz, Austria
 #   sub: ML
-
-
-# - title: ICML
-#   year: 2020
-#   id: icml2020
-#   link: https://icml.cc/Conferences/2020
-#   deadline: '2020-02-07 15:59:00'
-#   timezone: America/Los_Angeles
-#   date: July 12-18, 2020
-#   place: Vienna, Austria
-#   sub: ML
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 31, 2020. More info <a href=''https://icml.cc/Conferences/2020''>here</a>.'
 
 
 # - title: SIGKDD
