@@ -23,6 +23,17 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 28, 2021. More info <a href=''https://icml.cc/Conferences/2021''>here</a>.'
 
 
+- title: SIGKDD
+  year: 2021
+  id: sigkdd2021
+  link: https://www.kdd.org/kdd2021/
+  deadline: '2021-02-08 23:59:59'
+  timezone: UTC-12
+  date: July 11-15, 2021
+  place: Singapore
+  sub: DB
+
+
 - title: SIGIR
   year: 2021
   id: sigir2021
