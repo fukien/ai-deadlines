@@ -1,13 +1,13 @@
-title: DB-AI Conference Deadlines # (Maintained by @fukien)
+title: CS Conference Deadlines # (Maintained by @fukien)
 # email: huangwentao@u.nus.edu
-description: Countdowns to top DB/AI/DM/IR/ML/NLP conference deadlines
+description: Countdowns to some top tier computer science conference deadlines
 author: Wentao Huang
 
 domain: "fukien.github.io"
-baseurl: "/db-ai-deadlines"
+baseurl: "/cs-conference-deadlines"
 
 github_username: fukien
-github_repo: db-ai-deadlines
+github_repo: cs-conference-deadlines
 
 markdown: kramdown
 ga_id:
