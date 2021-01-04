@@ -1,4 +1,4 @@
-## Conference Deadlines
+## Deadline Countdowns
 
 Countdown timers to keep track of a bunch of top tier computer science conference deadlines.
 

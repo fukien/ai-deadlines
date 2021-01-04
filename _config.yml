@@ -1,13 +1,13 @@
-title: CS Conference Deadlines # (Maintained by @fukien)
+title: Deadline Countdowns # (Maintained by @fukien)
 # email: huangwentao@u.nus.edu
 description: Countdowns to some top tier computer science conference deadlines
 author: Wentao Huang
 
 domain: "fukien.github.io"
-baseurl: "/cs-conference-deadlines"
+baseurl: "/deadline-countdowns"
 
 github_username: fukien
-github_repo: cs-conference-deadlines
+github_repo: deadline-countdowns
 
 markdown: kramdown
 ga_id:
