@@ -3,11 +3,9 @@
   sub: DB
 - name: Data Mining
   sub: DM
-- name: Media
-  sub: media
-- name: Information Retrieval
-  sub: IR
+- name: Operating System
+  sub: OS
 - name: Machine Learning
   sub: ML
-- name: Natural Language Proc
-  sub: NLP
+- name: Interdisciplinary Areas
+  sub: IA

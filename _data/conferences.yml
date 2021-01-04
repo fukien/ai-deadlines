@@ -42,7 +42,7 @@
   timezone: UTC-12
   date: July 11-15, 2021
   place: Montreal, Canada
-  sub: DB
+  sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 2, 2021. More info <a href=''http://sigir.org/sigir2021/call-for-full-papers/''>here</a>.'
 
 
@@ -65,7 +65,7 @@
 #   timezone: UTC-12
 #   date: June 2-7, 2019
 #   place: Minneapolis, Minnesota, USA
-#   sub: NLP
+#   sub: IA
 
 
 # - title: NeurIPS
@@ -192,7 +192,7 @@
 #   timezone: UTC-12
 #   date: April 20-24, 2020
 #   place: Taipei, Taiwan, China
-#   sub: media
+#   sub: IA
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://www2020.thewebconf.org/authors-important-dates''>here</a>.'
 
 
@@ -220,18 +220,6 @@
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on October 15, 2019. More info <a href=''https://sigmod2020.org/calls_papers_important_dates.shtml/''>here</a>.'
 
 
-# - title: PAKDD
-#   year: 2020
-#   id: pakdd2020
-#   link: https://www.pakdd2020.org/
-#   deadline: '2019-11-25 23:59:59'
-#   timezone: UTC-7
-#   date: May 11-14
-#   place: Singapore
-#   sub: DM
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on November 18, 2019. More info <a href=''https://www.pakdd2020.org/callforpapers.html/''>here</a>.'
-
-
 # - title: ACL
 #   year: 2020
 #   id: acl2020
@@ -240,19 +228,7 @@
 #   timezone: UTC-12
 #   date: July 6-8, 2020
 #   place: Seattle, Washington, USA
-#   sub: NLP
-
-
-# - title: ESWC
-#   year: 2020
-#   id: eswc2020
-#   link: https://2020-test.eswc-conferences.org/
-#   deadline: '2019-12-11 23:59:59'
-#   timezone: UTC-12
-#   date: May 31-June 4, 2019
-#   place: Heraklion, Crete, Greece
-#   sub: DB
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on December 4, 2019. More info <a href=''https://2020-test.eswc-conferences.org/''>here</a>.'
+#   sub: IA
 
 
 # - title: DASFAA
@@ -332,31 +308,8 @@
 #   timezone: UTC-12
 #   date: October 12-16, 2020
 #   place: Seattle, Washington, USA
-#   sub: media
+#   sub: IA
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on March 21, 2020. More info <ahref="https://2020.acmmm.org/call-for-paper.html">here</a>.'
-
-
-# - title: ASONAM
-#   year: 2020
-#   id: asonam2020
-#   link: http://asonam.cpsc.ucalgary.ca/2020/
-#   deadline: '2020-04-05, 23:59:59'
-#   timezone: UTC-11
-#   date: August 3-6, 2020
-#   place: Hague, Netherlands
-#   sub: ML
-
-
-# - title: ISWC
-#   year: 2020
-#   id: iswc2020
-#   link: https://iswc2020.semanticweb.org/
-#   deadline: '2020-04-03, 23:59:59'
-#   timezone: UTC-12
-#   date: November 2-6, 2020
-#   place: Athens, Greece
-#   sub: DB
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2020. More info <ahref="https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/">here</a>.'
 
 
 # - title: COLING
@@ -367,7 +320,7 @@
 #   timezone: UTC+1
 #   date: September 13-18, 2020
 #   place: Barcelona, Spain
-#   sub: NLP
+#   sub: IA
 
 
 # - title: RecSys
@@ -402,7 +355,7 @@
 #   timezone: UTC-12
 #   date: November 16-18, 2020
 #   place: Punta Cana, Dominican Republic
-#   sub: NLP
+#   sub: IA
 
 
 # - title: ICDM
