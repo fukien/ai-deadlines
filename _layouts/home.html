@@ -4,9 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-    <title>{{ site.title }}</title>
-    <meta name="description" content="{{ site.description }}">
-    <meta name="author" content="{{ site.author }}">
+    <title>{{site.title}}</title>
+    <meta name="description" content="{{site.description}}">
+    <meta name="author" content="{{site.author}}">
     <link rel="stylesheet" type="text/css" href="{{ "/static/css/bootstrap.min.css" | prepend:site.baseurl }}">
     <link rel="stylesheet" type="text/css" href="{{ "/static/css/deadlines.css" | prepend:site.baseurl }}?t={{site.time | date: '%s'}}" media="screen,projection">
     <link rel="shortcut icon" href="{{ "/static/img/favicon.png" | prepend:site.baseurl }}">
@@ -210,7 +210,7 @@
           }
         }
         store.set('{{ site.domain }}', subs);
-        window.history.pushState('', '', '/?sub=' + subs.join());
+        window.history.pushState('', '', 'deadline-countdowns/?sub=' + subs.join());
 
         //Event handler on checkbox change
         $('form :checkbox').change(function(e) {
