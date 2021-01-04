@@ -3,8 +3,8 @@
   sub: DB
 - name: Data Mining
   sub: DM
-- name: Interdisciplinary Areas
-  sub: IA
+- name: Media
+  sub: media
 - name: Information Retrieval
   sub: IR
 - name: Machine Learning
