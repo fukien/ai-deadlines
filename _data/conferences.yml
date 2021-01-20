@@ -1,16 +1,4 @@
 ---
-- title: IJCAI
-  year: 2021
-  id: ijcai2021
-  link: https://ijcai-21.org/
-  deadline: '2021-01-18 23:59:59'
-  timezone: UTC-12
-  date: August 21-26, 2021
-  place: Montreal, Canada
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 12, 2021. More info <a href=''https://ijcai-21.org/cfp/''>here</a>.'
-
-
 - title: ICML
   year: 2021
   id: icml2021
@@ -367,3 +355,15 @@
 #   date: November 17-20, 2020
 #   place: Sorrento, Italy
 #   sub: DM
+
+
+# - title: IJCAI
+#  year: 2021
+#  id: ijcai2021
+#  link: https://ijcai-21.org/
+#  deadline: '2021-01-18 23:59:59'
+#  timezone: UTC-12
+#  date: August 21-26, 2021
+#  place: Montreal, Canada
+#  sub: ML
+#  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 12, 2021. More info <a href=''https://ijcai-21.org/cfp/''>here</a>.'
