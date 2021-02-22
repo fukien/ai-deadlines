@@ -1,39 +1,4 @@
 ---
-- title: ICML
-  year: 2021
-  id: icml2021
-  link: https://icml.cc/Conferences/2021
-  deadline: '2021-02-04 23:59:59'
-  timezone: UTC-12
-  date: July 18-24, 2021
-  place: Vienna, Austria
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 28, 2021. More info <a href=''https://icml.cc/Conferences/2021''>here</a>.'
-
-
-- title: SIGKDD
-  year: 2021
-  id: sigkdd2021
-  link: https://www.kdd.org/kdd2021/
-  deadline: '2021-02-08 23:59:59'
-  timezone: UTC-12
-  date: July 11-15, 2021
-  place: Singapore
-  sub: DB
-
-
-- title: SIGIR
-  year: 2021
-  id: sigir2021
-  link: https://sigir.org/sigir2021/
-  deadline: '2021-02-09 23:59:59'
-  timezone: UTC-12
-  date: July 11-15, 2021
-  place: Montreal, Canada
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on February 2, 2021. More info <a href=''http://sigir.org/sigir2021/call-for-full-papers/''>here</a>.'
-
-
 - title: VLDB
   year: 2021
   id: vldb2021
@@ -367,3 +332,38 @@
 #  place: Montreal, Canada
 #  sub: ML
 #  note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 12, 2021. More info <a href=''https://ijcai-21.org/cfp/''>here</a>.'
+
+
+# - title: ICML
+#   year: 2021
+#   id: icml2021
+#   link: https://icml.cc/Conferences/2021
+#   deadline: '2021-02-04 23:59:59'
+#   timezone: UTC-12
+#   date: July 18-24, 2021
+#   place: Vienna, Austria
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Januaray 28, 2021. More info <a href=''https://icml.cc/Conferences/2021''>here</a>.'
+
+
+# - title: SIGKDD
+#   year: 2021
+#   id: sigkdd2021
+#   link: https://www.kdd.org/kdd2021/
+#   deadline: '2021-02-08 23:59:59'
+#   timezone: UTC-12
+#   date: July 11-15, 2021
+#   place: Singapore
+#   sub: DB
+
+
+# - title: SIGIR
+#   year: 2021
+#   id: sigir2021
+#   link: https://sigir.org/sigir2021/
+#   deadline: '2021-02-09 23:59:59'
+#   timezone: UTC-12
+#   date: July 11-15, 2021
+#   place: Montreal, Canada
+#   sub: DM
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on February 2, 2021. More info <a href=''http://sigir.org/sigir2021/call-for-full-papers/''>here</a>.'
