@@ -1,15 +1,4 @@
 ---
-- title: VLDB
-  year: 2021
-  id: vldb2021
-  link: http://vldb.org/2021/
-  deadline: '2021-03-01 16:59:59'
-  timezone: UTC-7
-  date: Aug 16-20, 2021
-  place: Copenhagen, Denmark
-  sub: DB
-
-
 # - title: NAACL
 #   year: 2019
 #   id: naacl2019
@@ -367,3 +356,14 @@
 #   place: Montreal, Canada
 #   sub: DM
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on February 2, 2021. More info <a href=''http://sigir.org/sigir2021/call-for-full-papers/''>here</a>.'
+
+
+# - title: VLDB
+#   year: 2021
+#   id: vldb2021
+#   link: http://vldb.org/2021/
+#   deadline: '2021-03-01 16:59:59'
+#   timezone: UTC-7
+#   date: Aug 16-20, 2021
+#   place: Copenhagen, Denmark
+#   sub: DB
