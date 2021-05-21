@@ -1,4 +1,15 @@
 ---
+- title: SIGMOD SECOND ROUND
+  year: 2022
+  id: sigmod2022_2nd
+  link: https://2022.sigmod.org/
+  deadline: '2021-09-15 16:59:59'
+  timezone: UTC-7
+  date: June 12-17, 2022
+  place: Philadelphia, PA, USA
+  sub: DB
+
+
 # - title: NAACL
 #   year: 2019
 #   id: naacl2019
