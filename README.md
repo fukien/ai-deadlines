@@ -16,6 +16,7 @@ To add or update information:
 - [conferencelist.info](http://www.conferencelist.info/)
 - [ACM-Upcoming-Submission-Deadlines](https://www.acm.org/conferences/upcoming-submission-deadlines)
 - [UPCOMING USENIX CONFERENCES](https://www.usenix.org/conferences)
+- [IEEE Publication Recommender](https://publication-recommender.ieee.org/home)
 - [data-mining-conferences](https://github.com/yzhao062/data-mining-conferences)
 - [conference-acceptance-rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 - [database-conferene-acceptance-rate](https://fusiontables.google.com/DataSource?dsrcid=3305#rows:id=1)
