@@ -7,5 +7,7 @@
   sub: OS
 - name: Machine Learning
   sub: ML
-- name: Interdisciplinary Areas
-  sub: IA
+- name: High-Performance Computing
+  sub: HPC
+- name: Miscellaneous
+  sub: Misc
