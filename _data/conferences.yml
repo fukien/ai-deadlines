@@ -10,6 +10,17 @@
   sub: DB
 
 
+- title: ICDE SECOND ROUND
+  year: 2022
+  id: icde2022_2nd
+  link: https://icde2022.ieeecomputer.my/
+  deadline: '2021-09-15 16:59:59'
+  timezone: UTC-7
+  date: May 9-12, 2022
+  place: Kuala Lumpur, Malaysia
+  sub: DB
+
+
 # - title: NAACL
 #   year: 2019
 #   id: naacl2019
