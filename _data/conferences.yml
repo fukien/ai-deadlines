@@ -10,17 +10,6 @@
   sub: DB
 
 
-- title: FAST
-  year: 2022
-  id: fast2022
-  link: https://www.usenix.org/conference/fast22/
-  deadline: '2021-09-23 23:59:59'
-  timezone: UTC-7
-  date: February 21-24, 2022
-  place: Santa Clara, CA, USA
-  sub: OS
-
-
 # - title: NAACL
 #   year: 2019
 #   id: naacl2019
@@ -401,3 +390,14 @@
 #   place: Seoul, South Korea
 #   sub: HPC
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on July 23, 2021. More info <a href=''https://hpca-conf.org/2022/''>here</a>.'
+
+
+# - title: FAST
+#   year: 2022
+#   id: fast2022
+#   link: https://www.usenix.org/conference/fast22/
+#   deadline: '2021-09-23 23:59:59'
+#   timezone: UTC-7
+#   date: February 21-24, 2022
+#   place: Santa Clara, CA, USA
+#   sub: OS
