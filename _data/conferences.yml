@@ -1,16 +1,4 @@
 ---
-- title: HPDC
-  year: 2022
-  id: hpdc2022
-  link: http://www.hpdc.org/2022/
-  deadline: '2022-01-27 11:59:59'
-  timezone: UTC-12
-  date: June 27 - July 1, 2022
-  place: Minneapolis, Minnesota, USA
-  sub: HPC
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href="http://www.hpdc.org/2022/papers/call-for-papers/">here</a>.'
-
-
 - title: SPAA
   year: 2022
   id: spaa2022
@@ -53,7 +41,7 @@
 #   deadline: '2019-05-23 13:00:00'
 #   timezone: America/Los_Angeles
 #   date: December 9-14, 2019
-#   place: Vancouver Convention Centre, Canada
+#   place: Vancouver, Canada
 #   sub: ML
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
 
@@ -119,10 +107,10 @@
 # - title: ICLR
 #   year: 2020
 #   id: iclr2020
-#   link: http://iclr.cc/
+#   link: https://iclr.cc/Conferences/2020
 #   deadline: '2019-09-25 17:59:59'
 #   timezone: Africa/Nairobi
-#   date: April 30, 2020
+#   date: April 26 - May 1, 2020
 #   place: Addis Ababa, Ethiopia
 #   sub: ML
 
@@ -417,17 +405,6 @@
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on July 23, 2021. More info <a href=''https://hpca-conf.org/2022/''>here</a>.'
 
 
-# - title: FAST
-#   year: 2022
-#   id: fast2022
-#   link: https://www.usenix.org/conference/fast22/
-#   deadline: '2021-09-23 23:59:59'
-#   timezone: UTC-7
-#   date: February 21-24, 2022
-#   place: Santa Clara, California, USA
-#   sub: OS
-
-
 # - title: SIGMOD SECOND ROUND
 #   year: 2022
 #   id: sigmod2022_2nd
@@ -439,6 +416,17 @@
 #   sub: DB
 
 
+# - title: FAST
+#   year: 2022
+#   id: fast2022
+#   link: https://www.usenix.org/conference/fast22/
+#   deadline: '2021-09-23 23:59:59'
+#   timezone: UTC-7
+#   date: February 21-24, 2022
+#   place: Santa Clara, California, USA
+#   sub: OS
+
+
 # - title: ICDE SECOND ROUND
 #   year: 2022
 #   id: icde2022_2nd
@@ -448,3 +436,15 @@
 #   date: May 9-12, 2022
 #   place: Kuala Lumpur, Malaysia
 #   sub: DB
+
+
+# - title: HPDC
+#   year: 2022
+#   id: hpdc2022
+#   link: http://www.hpdc.org/2022/
+#   deadline: '2022-01-27 11:59:59'
+#   timezone: UTC-12
+#   date: June 27 - July 1, 2022
+#   place: Minneapolis, Minnesota, USA
+#   sub: HPC
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href="http://www.hpdc.org/2022/papers/call-for-papers/">here</a>.'
