@@ -1,4 +1,14 @@
 ---
+- title: SPAA
+  year: 2022
+  id: spaa2022
+  link: https://spaa.acm.org/
+  deadline: '2022-02-11 11:59:59'
+  timezone: UTC-12
+  date: July 11-14, 2022
+  place: Philadelphia, PA, USA
+  sub: Misc
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 04, 2022. More info <a href="https://spaa.acm.org/cfp/">here</a>.'
 
 
 # - title: NAACL
