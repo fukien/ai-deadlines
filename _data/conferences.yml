@@ -1,4 +1,16 @@
 ---
+- title: HPDC
+  year: 2022
+  id: hpdc2022
+  link: http://www.hpdc.org/2022/
+  deadline: '2022-02-11 11:59:59'
+  timezone: UTC-12
+  date: June 27 - July 1, 2022
+  place: Minneapolis, Minnesota, USA
+  sub: HPC
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href="http://www.hpdc.org/2022/papers/call-for-papers/">here</a>.'
+
+
 - title: SPAA
   year: 2022
   id: spaa2022
@@ -6,7 +18,7 @@
   deadline: '2022-02-11 11:59:59'
   timezone: UTC-12
   date: July 11-14, 2022
-  place: Philadelphia, PA, USA
+  place: Philadelphia, Pennsylvania, USA
   sub: Misc
   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 04, 2022. More info <a href="https://spaa.acm.org/cfp/">here</a>.'
 
@@ -75,7 +87,7 @@
 #   link: http://alt2020.algorithmiclearningtheory.org/
 #   deadline: '2019-09-20 16:59:59'
 #   timezone: America/New_York
-#   date: February 08-10, 2020
+#   date: February 8-10, 2020
 #   place: San Diego, CA, United States
 #   sub: ML
 
@@ -86,7 +98,7 @@
 #   link: https://diku-dk.github.io/edbticdt2020/
 #   deadline: '2019-09-23 23:59:59'
 #   timezone: UTC-12
-#   date: March 30th - April 2nd, 2020
+#   date: March 30 - April 2, 2020
 #   place: Copenhagen, Denmark
 #   sub: DB
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on September 15, 2019. More info <a href=''https://diku-dk.github.io/edbticdt2020/?contents=ICDT_CFP.html''>here</a>.'
@@ -132,7 +144,7 @@
 #   link: https://diku-dk.github.io/edbticdt2020/
 #   deadline: '2019-10-11 23:59:59'
 #   timezone: UTC-12
-#   date: March 30th - April 2nd, 2020
+#   date: March 30 - April 2, 2020
 #   place: Copenhagen, Denmark
 #   sub: DB
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on October 7, 2019. More info <a href=''https://diku-dk.github.io/edbticdt2020/?contents=EDBT_CFP.html''>here</a>.'
@@ -400,7 +412,7 @@
 #   deadline: '2021-09-23 23:59:59'
 #   timezone: UTC-7
 #   date: February 21-24, 2022
-#   place: Santa Clara, CA, USA
+#   place: Santa Clara, California, USA
 #   sub: OS
 
 
@@ -411,7 +423,7 @@
 #   deadline: '2021-09-15 16:59:59'
 #   timezone: UTC-7
 #   date: June 12-17, 2022
-#   place: Philadelphia, PA, USA
+#   place: Philadelphia, Pennsylvania, USA
 #   sub: DB
 
 
