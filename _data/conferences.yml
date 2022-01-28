@@ -3,7 +3,7 @@
   year: 2022
   id: hpdc2022
   link: http://www.hpdc.org/2022/
-  deadline: '2022-02-11 11:59:59'
+  deadline: '2022-01-27 11:59:59'
   timezone: UTC-12
   date: June 27 - July 1, 2022
   place: Minneapolis, Minnesota, USA
@@ -21,6 +21,18 @@
   place: Philadelphia, Pennsylvania, USA
   sub: Misc
   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 04, 2022. More info <a href="https://spaa.acm.org/cfp/">here</a>.'
+
+
+  - title: SC
+  year: 2022
+  id: sc2022
+  link: https://sc22.supercomputing.org/
+  deadline: '2022-04-01 11:59:59'
+  timezone: UTC-12
+  date: November 13-18, 2022
+  place: Dallas, Texas, USA
+  sub: HPC
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 25, 2022. More info <a href="https://sc22.supercomputing.org/submit/paper-submissions/">here</a>.'
 
 
 # - title: NAACL
