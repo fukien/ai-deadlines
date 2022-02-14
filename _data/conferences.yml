@@ -1,16 +1,4 @@
 ---
-- title: SPAA
-  year: 2022
-  id: spaa2022
-  link: https://spaa.acm.org/
-  deadline: '2022-02-11 11:59:59'
-  timezone: UTC-12
-  date: July 11-14, 2022
-  place: Philadelphia, Pennsylvania, USA
-  sub: Misc
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 04, 2022. More info <a href="https://spaa.acm.org/cfp/">here</a>.'
-
-
 - title: SC
   year: 2022
   id: sc2022
@@ -448,3 +436,15 @@
 #   place: Minneapolis, Minnesota, USA
 #   sub: HPC
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href="http://www.hpdc.org/2022/papers/call-for-papers/">here</a>.'
+
+
+# - title: SPAA
+#   year: 2022
+#   id: spaa2022
+#   link: https://spaa.acm.org/
+#   deadline: '2022-02-11 11:59:59'
+#   timezone: UTC-12
+#   date: July 11-14, 2022
+#   place: Philadelphia, Pennsylvania, USA
+#   sub: Misc
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 04, 2022. More info <a href="https://spaa.acm.org/cfp/">here</a>.'
