@@ -1,16 +1,4 @@
 ---
-- title: SC
-  year: 2022
-  id: sc2022
-  link: https://sc22.supercomputing.org/
-  deadline: '2022-04-01 11:59:59'
-  timezone: UTC-12
-  date: November 13-18, 2022
-  place: Dallas, Texas, USA
-  sub: HPC
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 25, 2022. More info <a href="https://sc22.supercomputing.org/submit/paper-submissions/">here</a>.'
-
-
 # - title: NAACL
 #   year: 2019
 #   id: naacl2019
@@ -387,7 +375,7 @@
 #   link: https://hpca-conf.org/2022/
 #   deadline: '2021-07-30 23:59:59'
 #   timezone: UTC
-#   date: February 12-16, 2022 
+#   date: April 2-6, 2022 
 #   place: Seoul, South Korea
 #   sub: HPC
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on July 23, 2021. More info <a href=''https://hpca-conf.org/2022/''>here</a>.'
@@ -448,3 +436,15 @@
 #   place: Philadelphia, Pennsylvania, USA
 #   sub: Misc
 #   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 04, 2022. More info <a href="https://spaa.acm.org/cfp/">here</a>.'
+
+
+# - title: SC
+#   year: 2022
+#   id: sc2022
+#   link: https://sc22.supercomputing.org/
+#   deadline: '2022-04-01 11:59:59'
+#   timezone: UTC-12
+#   date: November 13-18, 2022
+#   place: Dallas, Texas, USA
+#   sub: HPC
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 25, 2022. More info <a href="https://sc22.supercomputing.org/submit/paper-submissions/">here</a>.'
