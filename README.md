@@ -13,6 +13,7 @@ To add or update information:
 
 ## Fork & some useful links:
 - [ai-deadlines.es](https://aideadlin.es/?sub=DM,ML,NLP,SP,CV,RO)
+- [CCF Conference Deadlines](https://github.com/ccfddl/ccf-deadlines)
 - [conferencelist.info](http://www.conferencelist.info/)
 - [ACM-Upcoming-Submission-Deadlines](https://www.acm.org/conferences/upcoming-submission-deadlines)
 - [UPCOMING USENIX CONFERENCES](https://www.usenix.org/conferences)
