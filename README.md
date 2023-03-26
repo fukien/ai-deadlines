@@ -18,6 +18,7 @@ To add or update information:
 - [Call for papers!](https://cfp.atom.im/)
 - [ai-deadlines.es](https://aideadlin.es/?sub=DM,ML,NLP,SP,CV,RO)
 - [CCF Conference Deadlines](https://github.com/ccfddl/ccf-deadlines)
+- [csconferences](https://csconferences.org/)  
 - [database-conferene-acceptance-rate](https://fusiontables.google.com/DataSource?dsrcid=3305#rows:id=1)
 - [data-mining-conferences](https://github.com/yzhao062/data-mining-conferences)
 - [conferencelist.info](http://www.conferencelist.info/)
